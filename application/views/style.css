@@ -1,0 +1,40 @@
+	@font-face {
+		font-family: 'tangerine';
+		src: URL('fonts/tangerine.ttf') format ('ttf');
+		} 
+	body
+	{
+		text-align: center
+	}
+	h3
+	{
+		font-family: 'Tangerine';
+		font-size: 25px
+	}
+
+	.closingp, .wpftd, .cover {
+    width: 305px;
+    height: 770px;
+    border: 1px solid blue;
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+p
+{
+	width: 95%;
+    margin: 0 auto;
+    font-size: 13px
+}
+.wpftd .uppertxt
+{
+	font-size: 10px;
+	font-style: italic;
+}
+img{
+	max-width: 100%
+}
+.closingp img
+{
+	height:380px
+}
